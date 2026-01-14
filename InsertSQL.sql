@@ -9,9 +9,6 @@ INSERT INTO artists (nickname) VALUES
     ('Кровосток'),
     ('xxx3kov');
 
-
--- TRUNCATE TABLE Artists RESTART IDENTITY CASCADE (для полного удаления таблицы и обнуления ID)
-
 INSERT INTO genres (name) VALUES
     ('Rock'),
     ('Hip hop'),
